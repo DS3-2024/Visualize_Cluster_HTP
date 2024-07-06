@@ -1,2 +1,2 @@
-# Visualize_Cluster_HTP
+# Visualize and Clustering of HTP data
 Visualization and Clustering of HTP data
